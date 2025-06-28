@@ -28,7 +28,7 @@ QuantumChat is a conversational AI application that combines GROQ's fast inferen
 - [Supported Models](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-supported-models)
 - [Upcoming Features](#-upcoming-features)
 - [Contributing](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-contributing)
-- [License](#license)
+- [License](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/blob/main/LICENSE)
 
 ## 🚀 Installation
 
