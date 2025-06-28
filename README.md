@@ -26,6 +26,7 @@ QuantumChat is a conversational AI application that combines GROQ's fast inferen
 - [Usage](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-usage)
 - [Project Structure](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-project-structure)
 - [Supported Models](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-supported-models)
+- [Upcoming Features](#-upcoming-features)
 - [Contributing](https://github.com/Vigneshmaradiya/quantumchat-groq-rag/edit/main/README.md#-contributing)
 - [License](#license)
 
@@ -188,6 +189,57 @@ Supported file formats:
 - **PDF**: Using PyPDFLoader
 - **DOCX**: Using Docx2txtLoader  
 - **TXT/MD/HTML**: Using UnstructuredFileLoader
+
+## 🚧 Upcoming Features
+
+We're actively working on exciting new features for the next version! Here's what's coming soon:
+
+### 🧠 Advanced Memory & Persistence
+- **Cross-Session Storage**: Persistent session storage across refreshes and deployments
+- **Auto-Save & Resume**: Chat history automatically saved with seamless resume support
+- **Cloud Backup**: Optional cloud synchronization for session data
+
+### 📁 Enhanced Multi-File RAG Support
+- **Batch Document Upload**: Upload and embed multiple documents simultaneously
+- **Dynamic Source Management**: View, organize, and manage uploaded sources in real-time
+- **Document Versioning**: Track and manage different versions of uploaded files
+- **Cross-Document Queries**: Ask questions that span across multiple uploaded documents
+
+### 💬 Next-Generation Chat UI
+- **Source Transparency**: Toggle view of retrieved RAG context and sources used for each response
+- **Rich Content Rendering**: Enhanced markdown support with tables, code blocks, links, and media
+- **Customizable Sessions**: Editable session names (e.g., "Job Search Q&A", "Resume Analysis", "Research Notes")
+- **Message Threading**: Organize conversations with threaded replies and topics
+
+### 📊 Comprehensive Analytics & Tracking
+- **Real-Time Metrics**: Live token usage display with visual indicators
+- **Cost Estimation**: Accurate cost calculator for each interaction and session
+- **Usage Visualization**: Interactive charts showing token consumption patterns
+- **Performance Insights**: Response time analytics and model performance metrics
+
+### 🔐 Enterprise-Ready Authentication
+- **Secure Login System**: Optional user authentication for personal session access
+- **Privacy Controls**: Session-based privacy settings and chat history protection
+- **Team Collaboration**: Shared workspaces for team-based document analysis
+- **Role-Based Access**: Different permission levels for various user types
+
+### 📤 Advanced Export & Integration
+- **Multi-Format Export**: Export complete chat sessions as PDF, Markdown, Word, or JSON
+- **Source Linking**: Download RAG source documents with associated chat context
+- **API Integration**: RESTful API for integrating with external systems
+- **Webhook Support**: Real-time notifications and integrations with other tools
+
+### 🎨 Customization & Themes
+- **UI Themes**: Dark/light mode with custom color schemes
+- **Layout Options**: Flexible interface layouts for different use cases
+- **Custom Branding**: White-label options for enterprise deployments
+
+### 🔍 Advanced Search & Discovery
+- **Global Search**: Search across all sessions and documents
+- **Smart Suggestions**: AI-powered query suggestions based on uploaded content
+- **Bookmark System**: Save and organize important conversations and insights
+
+**🎯 Timeline**: These features are planned for release in Q3-Q4 2025. Follow our repository for updates!
 
 ## 🛠️ Development
 
